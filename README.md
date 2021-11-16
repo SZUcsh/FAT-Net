@@ -1,2 +1,1 @@
-# FAT-Net
-FAT-Net: Feature Adaptive Transformers for Automated Skin Lesion Segmentation
+# FAT-Net: Feature Adaptive Transformers for Automated Skin Lesion Segmentation
